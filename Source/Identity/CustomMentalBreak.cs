@@ -64,7 +64,7 @@ namespace Identity
 			{
 				Pawn pawn2;
 				StatDef flaren = DefOfDysphoria.FlarenStat;
-				return (pawn2 = (x as Pawn)) != null && pawn2.Spawned && !pawn2.Downed && !pawn2.IsInvisible() && (pawn2.GetStatValue(flaren) > 1);
+				return (pawn2 = (x as Pawn)) != null && pawn2.Spawned && !pawn2.Downed && !pawn2.IsPsychologicallyInvisible() && (pawn2.GetStatValue(flaren) > 1);
 			}, 0f, this.maxAttackDistance, default(IntVec3), float.MaxValue, true, true, false);
 		}
 

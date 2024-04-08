@@ -15,7 +15,7 @@ namespace Identity
         {
             Messages.Message("BiosculpterPleasureCompletedMessage".Translate(pawn.Named("PAWN")), pawn, MessageTypeDefOf.PositiveEvent, true);
             pawn.gender = pawn.gender == Gender.Male ? Gender.Female : Gender.Male;
-            pawn.Drawer.renderer.graphics.ResolveAllGraphics();
+            pawn.Drawer.renderer.SetAllGraphicsDirty();
         }
     }
 

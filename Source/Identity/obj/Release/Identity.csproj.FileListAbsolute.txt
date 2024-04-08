@@ -6,3 +6,10 @@ D:\SteamLibrary\steamapps\common\RimWorld\Mods\Identity\Source\Identity\obj\Rele
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\Identity\Source\Identity\obj\Release\Identity.csproj.AssemblyReference.cache
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\Identity\Source\Identity\bin\Release\0Harmony.dll
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\Identity\Source\Identity\obj\Release\Identity.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimworldIdentity\Source\Identity\obj\Release\Identity.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimworldIdentity\Source\Identity\obj\Release\Identity.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimworldIdentity\Source\Identity\obj\Release\Identity.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimworldIdentity\Source\Identity\bin\Release\Identity.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimworldIdentity\Source\Identity\bin\Release\Identity.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimworldIdentity\Source\Identity\obj\Release\Identity.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimworldIdentity\Source\Identity\obj\Release\Identity.pdb
